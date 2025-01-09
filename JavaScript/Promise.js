@@ -1,4 +1,4 @@
-//Promises in JavaScript
+//Promises
 //Syntax
 
 // let prom = new Promise(function(myresolve,myreject){
